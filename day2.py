@@ -15,7 +15,87 @@
 # print(thisset)
 
 
-x = {'a','b','c'}
-y = (1,2,3)
-z = x.union(y)
-print(z)
+# x = {'a','b','c'}
+# y = (1,2,3)
+# z = x.union(y)
+# print(z)
+
+
+# x = 'awesome'
+# def myfunc():
+#     x= "Fantastic"
+#     print("Python is " + x)
+    
+# myfunc()
+# print("Python is " + x)
+
+
+# x = "awesome"
+
+# def myfunc():
+#   global x
+#   x = "fantastic"
+
+# myfunc()
+
+# print("Python is " + x)
+
+# import random 
+# print(random.randrange(1,10))
+
+# print("He is called \"John\"")
+# a= "Hello"
+# print(a)
+# a = "Hello , World!"
+# print(a[0])
+# for x in a: 
+#     print(x)
+# print(len(a))
+
+# print("Hello" in a)
+# print("world" in a)
+
+# text = "The best things in life are free!"
+# if "free"in text:
+#     print("yes, Free is present in the text")
+
+b = " Hello , World "
+# print(b[2:5])
+# print(b[-5:-2])
+# print(b.strip())
+# print(b.replace("e", "o"))
+# x = "Hello"
+# y = 15
+
+# print(bool(x))
+# print(bool(y))
+
+# def myFunction() :
+#   return True
+
+# if myFunction():
+#   print("YES!")
+# else:
+#   print("NO!")
+
+# numbers = [1, 2, 3, 4, 5]
+# count = len(numbers)
+# print(count)
+# if count > 3:
+#     print(f"List has {count} elements")
+
+# if (count := len(numbers)) > 3:
+#     print(f"List has {count} elements")
+
+thislist = ["apple", "banana", "cherry"]
+thislist.append("orange")
+print(thislist)
+# thislist[1:3] = ["blackcurrant", "watermelon"]
+# print(thislist)
+
+
+
+
+
+
+
