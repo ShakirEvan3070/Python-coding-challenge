@@ -87,11 +87,45 @@ b = " Hello , World "
 # if (count := len(numbers)) > 3:
 #     print(f"List has {count} elements")
 
-thislist = ["apple", "banana", "cherry"]
-thislist.append("orange")
-print(thislist)
+# thislist = ["apple", "banana", "cherry"]
+# thislist.append("orange")
+# print(thislist)
 # thislist[1:3] = ["blackcurrant", "watermelon"]
 # print(thislist)
+
+# thislist = ["apple", "banana", "cherry"]
+# i = 0 
+# while i < len(thislist):
+#   print(thislist[i])
+#   i+=1
+
+# fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+# newlist = []
+
+# for x in fruits:
+#   if "a" in x:
+#     newlist.append(x)
+
+# print(newlist)
+# tuple1 = ("abc", 34, True, 40, "male")
+# print(type(tuple1))
+
+# username = input("Enter your name:")
+# if len(username) >0:
+#   print(f"Welcome {username}")
+# else:
+#   print("Error: Username can not be empty")
+
+# a = 2
+# b= 330
+# print("A") if a>b else print("B")
+
+
+
+
+
+
+
 
 
 
