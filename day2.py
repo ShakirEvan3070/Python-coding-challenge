@@ -120,15 +120,36 @@ b = " Hello , World "
 # b= 330
 # print("A") if a>b else print("B")
 
+# day = 6
+# match day:
+#     case 6:
+#         print("Today is Saturday")
+#     case 7:
+#         print("Today is Sunday")
+#     case _:
+#         print("Today is weekend")
 
+# day = 4
+# match day : 
+#     case 1|2|3|4|5:
+#         print("Today is a weekday")
+#     case 6|7:
+#         print("I love weekedns")
 
+# month = 4
+# day = 4
+# match day:
+#     case 1|2|3|4|5 if month == 4:
+#         print("A weekday in April")
+#     case 1|2|3|4|5 if month ==5:
+#         print("A weekday in May")
+#     case _:
+#         print("No Match")
 
-
-
-
-
-
-
+# i =1
+# while i<6:
+#     print(i)
+#     i +=1
 
 
 
