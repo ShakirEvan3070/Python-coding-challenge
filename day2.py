@@ -151,6 +151,15 @@ b = " Hello , World "
 #     print(i)
 #     i +=1
 
+# i = 1
+# while i < 6:
+#     print(i)
+#     if i ==7:
+#         break
+#     i +=1
 
-
-
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  if x == "banana":
+    break
+  print(x)
