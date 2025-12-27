@@ -158,8 +158,63 @@ b = " Hello , World "
 #         break
 #     i +=1
 
-fruits = ["apple", "banana", "cherry"]
-for x in fruits:
-  if x == "banana":
-    break
-  print(x)
+# fruits = ["apple", "banana", "cherry"]
+# for x in fruits:
+#   if x == "banana":
+#     break
+#   print(x)
+
+
+# def fahrenheit_to_celsius(f):
+#   return (f-32)*5/9
+# print(fahrenheit_to_celsius(100))
+# print(fahrenheit_to_celsius(332))
+# print(fahrenheit_to_celsius(290))
+# print(fahrenheit_to_celsius(450))
+
+# def myfunc(f_name,l_name):
+#   print(f_name + " " + l_name)
+# myfunc("Shakir", "Evan")
+
+# def myFunc(fruits):
+#   for fruit in fruits:
+#     print(fruit)
+# my_Fruits = ["apple", "banana", "cherry"]
+# myFunc(my_Fruits)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
